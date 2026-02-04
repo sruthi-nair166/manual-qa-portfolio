@@ -1,5 +1,20 @@
 # Test Plan – SauceDemo Manual Testing
 
+---
+
+## Table of Contents
+- [Objective](#objectives)
+- [Application Under Test](#application-under-test)
+- [Test Scope](#test-scope)
+  - [In Scope](#in-scope)
+  - [Out of Scope](#out-of-scope)
+- [Test Approach](#test-approach)
+- [Test Deliverables](#test-deliverables)
+- [Test Environment](#test-environment)
+- [Entry Criteria](#entry-criteria)
+- [Exit Criteria](#exit-criteria)
+- [Risks](#risks)
+
 ## 1. Objective
 The objective of this test plan is to verify the core functionality and UI behavior of the SauceDemo web application through manual testing.  
 The focus is on ensuring that user-facing features work as expected and that the UI is visually consistent.
