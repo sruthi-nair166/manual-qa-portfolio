@@ -1,5 +1,4 @@
 # Test Plan – SauceDemo Manual Testing
-
 ---
 
 ## Table of Contents
@@ -16,7 +15,6 @@
 - [Risks](#risks)
 
 ---
-
 ## Objective
 The objective of this test plan is to verify the core functionality and UI behavior of the SauceDemo web application through manual testing.  
 The focus is on ensuring that user-facing features work as expected and that the UI is visually consistent.
