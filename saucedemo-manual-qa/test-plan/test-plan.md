@@ -3,7 +3,7 @@
 ---
 
 ## Table of Contents
-- [Objective](#objectives)
+- [Objective](#objective)
 - [Application Under Test](#application-under-test)
 - [Test Scope](#test-scope)
   - [In Scope](#in-scope)
