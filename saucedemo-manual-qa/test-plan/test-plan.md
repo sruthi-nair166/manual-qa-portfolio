@@ -9,6 +9,7 @@
   - [Out of Scope](#out-of-scope)
 - [Test Approach](#test-approach)
 - [Test Deliverables](#test-deliverables)
+- [Testing Tools](#testing-tools)
 - [Test Environment](#test-environment)
 - [Entry Criteria](#entry-criteria)
 - [Exit Criteria](#exit-criteria)
@@ -63,6 +64,16 @@ The following deliverables will be produced as part of this testing effort:
 - UI / visual consistency checklist
 - Exploratory testing notes
 - Bug Reports with screenshots
+
+---
+
+## Testing Tools
+The following tools will be used during the testing process:
+- Google Chrome (primary test browser)
+- Chrome DevTools (UI inspection and responsiveness checks)
+- Google Sheets (test cases and exploratory testing notes)
+- GitHub (test documentation and version control)
+- Windows Snipping Tool (bug evidence screenshots)
 
 ---
 
